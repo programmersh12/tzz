@@ -1,4 +1,6 @@
 ﻿using System.Windows;
+using System.Windows.Controls;
+using System.Windows.Media;
 using Microsoft.Win32;
 
 namespace ChatSecureClient11212
@@ -12,12 +14,12 @@ namespace ChatSecureClient11212
 
         private void ShowEmojiPopup_Click(object sender, RoutedEventArgs e)
         {
-            MessageBox.Text += "😀"; // заглушка: вставка эмодзи
+            MessageBox.Text += "😀"; // вставка эмодзи
         }
 
         private void ShowStickerPicker_Click(object sender, RoutedEventArgs e)
         {
-            MessageBox.Text += "[Стикер]"; // заглушка: вставка стикера
+            MessageBox.Text += "[Стикер]"; // вставка стикера (заглушка)
         }
 
         private void AttachFile_Click(object sender, RoutedEventArgs e)
@@ -28,8 +30,39 @@ namespace ChatSecureClient11212
             {
                 string fileName = System.IO.Path.GetFileName(dialog.FileName);
                 MessageBox.Text += $"[Файл: {fileName}]";
-                // Здесь можно сохранить путь и отправить файл через сеть
+                // В дальнейшем здесь можно добавить отправку файла по сети
             }
+        }
+
+        private void Send_Click(object sender, RoutedEventArgs e)
+        {
+            string message = MessageBox.Text.Trim();
+            if (!string.IsNullOrEmpty(message))
+            {
+                AddMessageBubble("Вы", message, true);
+                MessageBox.Clear();
+            }
+        }
+
+        private void AddMessageBubble(string senderName, string message, bool isOwn)
+        {
+            var bubble = new Border
+            {
+                Background = isOwn ? Brushes.LightBlue : Brushes.LightGray,
+                CornerRadius = new CornerRadius(10),
+                Padding = new Thickness(10),
+                Margin = new Thickness(5),
+                MaxWidth = 250,
+                HorizontalAlignment = isOwn ? HorizontalAlignment.Right : HorizontalAlignment.Left,
+                Child = new TextBlock
+                {
+                    Text = $"{senderName}: {message}",
+                    TextWrapping = TextWrapping.Wrap,
+                    Foreground = Brushes.Black
+                }
+            };
+
+            ChatPanel.Children.Add(bubble);
         }
     }
 }

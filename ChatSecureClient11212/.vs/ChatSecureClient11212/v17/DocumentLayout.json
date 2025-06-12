@@ -1,38 +1,48 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\collage_top\\collage_lessons\\sharp\\ChatSecureClient11212\\",
+  "WorkspaceRootPath": "D:\\GITHUBREP\\tzz\\ChatSecureClient11212\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D4BC77A1-14E8-41C7-9FC1-C13B7A4A0474}|ChatSecureClient11212\\ChatSecureClient11212.csproj|d:\\collage_top\\collage_lessons\\sharp\\chatsecureclient11212\\chatsecureclient11212\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D4BC77A1-14E8-41C7-9FC1-C13B7A4A0474}|ChatSecureClient11212\\ChatSecureClient11212.csproj|d:\\githubrep\\tzz\\chatsecureclient11212\\chatsecureclient11212\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D4BC77A1-14E8-41C7-9FC1-C13B7A4A0474}|ChatSecureClient11212\\ChatSecureClient11212.csproj|solutionrelative:chatsecureclient11212\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D4BC77A1-14E8-41C7-9FC1-C13B7A4A0474}|ChatSecureClient11212\\ChatSecureClient11212.csproj|d:\\collage_top\\collage_lessons\\sharp\\chatsecureclient11212\\chatsecureclient11212\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{D4BC77A1-14E8-41C7-9FC1-C13B7A4A0474}|ChatSecureClient11212\\ChatSecureClient11212.csproj|D:\\GITHUBREP\\tzz\\ChatSecureClient11212\\chatsecureclient11212\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{D4BC77A1-14E8-41C7-9FC1-C13B7A4A0474}|ChatSecureClient11212\\ChatSecureClient11212.csproj|solutionrelative:chatsecureclient11212\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C72D348-683D-411C-8121-203DC6DACE35}|\u042D\u043B\u0435\u043C\u0435\u043D\u0442\u044B \u0440\u0435\u0448\u0435\u043D\u0438\u044F{9C72D348-683D-411C-8121-203DC6DACE35}|D:\\collage_top\\collage_lessons\\sharp\\ChatSecureClient11212\\ChatSecureClient11212\\StickerPicker.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C72D348-683D-411C-8121-203DC6DACE35}|\u042D\u043B\u0435\u043C\u0435\u043D\u0442\u044B \u0440\u0435\u0448\u0435\u043D\u0438\u044F{9C72D348-683D-411C-8121-203DC6DACE35}|solutionrelative:ChatSecureClient11212\\StickerPicker.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D4BC77A1-14E8-41C7-9FC1-C13B7A4A0474}|ChatSecureClient11212\\ChatSecureClient11212.csproj|d:\\githubrep\\tzz\\chatsecureclient11212\\chatsecureclient11212\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D4BC77A1-14E8-41C7-9FC1-C13B7A4A0474}|ChatSecureClient11212\\ChatSecureClient11212.csproj|solutionrelative:chatsecureclient11212\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C72D348-683D-411C-8121-203DC6DACE35}|\u042D\u043B\u0435\u043C\u0435\u043D\u0442\u044B \u0440\u0435\u0448\u0435\u043D\u0438\u044F{9C72D348-683D-411C-8121-203DC6DACE35}|D:\\collage_top\\collage_lessons\\sharp\\ChatSecureClient11212\\ChatSecureClient11212\\StickerPicker.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|ChatSecureClient11212||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4BC77A1-14E8-41C7-9FC1-C13B7A4A0474}|ChatSecureClient11212\\ChatSecureClient11212.csproj|D:\\GITHUBREP\\tzz\\ChatSecureClient11212\\chatsecureclient11212\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D4BC77A1-14E8-41C7-9FC1-C13B7A4A0474}|ChatSecureClient11212\\ChatSecureClient11212.csproj|solutionrelative:chatsecureclient11212\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C72D348-683D-411C-8121-203DC6DACE35}|\u042D\u043B\u0435\u043C\u0435\u043D\u0442\u044B \u0440\u0435\u0448\u0435\u043D\u0438\u044F{9C72D348-683D-411C-8121-203DC6DACE35}|D:\\GITHUBREP\\tzz\\ChatSecureClient11212\\ChatSecureClient11212\\StickerPicker.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{9C72D348-683D-411C-8121-203DC6DACE35}|\u042D\u043B\u0435\u043C\u0435\u043D\u0442\u044B \u0440\u0435\u0448\u0435\u043D\u0438\u044F{9C72D348-683D-411C-8121-203DC6DACE35}|solutionrelative:ChatSecureClient11212\\StickerPicker.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C72D348-683D-411C-8121-203DC6DACE35}|\u042D\u043B\u0435\u043C\u0435\u043D\u0442\u044B \u0440\u0435\u0448\u0435\u043D\u0438\u044F{9C72D348-683D-411C-8121-203DC6DACE35}|D:\\collage_top\\collage_lessons\\sharp\\ChatSecureClient11212\\ChatSecureClient11212\\EmojiPopup.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9C72D348-683D-411C-8121-203DC6DACE35}|\u042D\u043B\u0435\u043C\u0435\u043D\u0442\u044B \u0440\u0435\u0448\u0435\u043D\u0438\u044F{9C72D348-683D-411C-8121-203DC6DACE35}|D:\\GITHUBREP\\tzz\\ChatSecureClient11212\\ChatSecureClient11212\\EmojiPopup.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9C72D348-683D-411C-8121-203DC6DACE35}|\u042D\u043B\u0435\u043C\u0435\u043D\u0442\u044B \u0440\u0435\u0448\u0435\u043D\u0438\u044F{9C72D348-683D-411C-8121-203DC6DACE35}|solutionrelative:ChatSecureClient11212\\EmojiPopup.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C72D348-683D-411C-8121-203DC6DACE35}|\u042D\u043B\u0435\u043C\u0435\u043D\u0442\u044B \u0440\u0435\u0448\u0435\u043D\u0438\u044F{9C72D348-683D-411C-8121-203DC6DACE35}|D:\\collage_top\\collage_lessons\\sharp\\ChatSecureClient11212\\ChatSecureClient11212\\EmojiPopup.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{9C72D348-683D-411C-8121-203DC6DACE35}|\u042D\u043B\u0435\u043C\u0435\u043D\u0442\u044B \u0440\u0435\u0448\u0435\u043D\u0438\u044F{9C72D348-683D-411C-8121-203DC6DACE35}|D:\\GITHUBREP\\tzz\\ChatSecureClient11212\\ChatSecureClient11212\\EmojiPopup.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{9C72D348-683D-411C-8121-203DC6DACE35}|\u042D\u043B\u0435\u043C\u0435\u043D\u0442\u044B \u0440\u0435\u0448\u0435\u043D\u0438\u044F{9C72D348-683D-411C-8121-203DC6DACE35}|solutionrelative:ChatSecureClient11212\\EmojiPopup.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D4BC77A1-14E8-41C7-9FC1-C13B7A4A0474}|ChatSecureClient11212\\ChatSecureClient11212.csproj|d:\\collage_top\\collage_lessons\\sharp\\chatsecureclient11212\\chatsecureclient11212\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D4BC77A1-14E8-41C7-9FC1-C13B7A4A0474}|ChatSecureClient11212\\ChatSecureClient11212.csproj|D:\\GITHUBREP\\tzz\\ChatSecureClient11212\\chatsecureclient11212\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D4BC77A1-14E8-41C7-9FC1-C13B7A4A0474}|ChatSecureClient11212\\ChatSecureClient11212.csproj|solutionrelative:chatsecureclient11212\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D4BC77A1-14E8-41C7-9FC1-C13B7A4A0474}|ChatSecureClient11212\\ChatSecureClient11212.csproj|d:\\collage_top\\collage_lessons\\sharp\\chatsecureclient11212\\chatsecureclient11212\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{D4BC77A1-14E8-41C7-9FC1-C13B7A4A0474}|ChatSecureClient11212\\ChatSecureClient11212.csproj|solutionrelative:chatsecureclient11212\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{9C72D348-683D-411C-8121-203DC6DACE35}|\u042D\u043B\u0435\u043C\u0435\u043D\u0442\u044B \u0440\u0435\u0448\u0435\u043D\u0438\u044F{9C72D348-683D-411C-8121-203DC6DACE35}|D:\\GITHUBREP\\tzz\\ChatSecureClient11212\\ChatSecureClient11212\\StickerPicker.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C72D348-683D-411C-8121-203DC6DACE35}|\u042D\u043B\u0435\u043C\u0435\u043D\u0442\u044B \u0440\u0435\u0448\u0435\u043D\u0438\u044F{9C72D348-683D-411C-8121-203DC6DACE35}|solutionrelative:ChatSecureClient11212\\StickerPicker.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4BC77A1-14E8-41C7-9FC1-C13B7A4A0474}|ChatSecureClient11212\\ChatSecureClient11212.csproj|d:\\githubrep\\tzz\\chatsecureclient11212\\chatsecureclient11212\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +52,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -51,23 +61,47 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "StickerPicker.xaml.cs",
-              "DocumentMoniker": "D:\\collage_top\\collage_lessons\\sharp\\ChatSecureClient11212\\ChatSecureClient11212\\StickerPicker.xaml.cs",
-              "RelativeDocumentMoniker": "ChatSecureClient11212\\StickerPicker.xaml.cs",
-              "ToolTip": "D:\\collage_top\\collage_lessons\\sharp\\ChatSecureClient11212\\ChatSecureClient11212\\StickerPicker.xaml.cs",
-              "RelativeToolTip": "ChatSecureClient11212\\StickerPicker.xaml.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAowDUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T21:38:48.916Z",
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\GITHUBREP\\tzz\\ChatSecureClient11212\\ChatSecureClient11212\\App.config",
+              "RelativeDocumentMoniker": "ChatSecureClient11212\\App.config",
+              "ToolTip": "D:\\GITHUBREP\\tzz\\ChatSecureClient11212\\ChatSecureClient11212\\App.config",
+              "RelativeToolTip": "ChatSecureClient11212\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-06-12T09:38:16.908Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "ChatSecureClient11212",
+              "DocumentMoniker": "D:\\GITHUBREP\\tzz\\ChatSecureClient11212\\ChatSecureClient11212\\ChatSecureClient11212.csproj",
+              "RelativeDocumentMoniker": "ChatSecureClient11212\\ChatSecureClient11212.csproj",
+              "ToolTip": "D:\\GITHUBREP\\tzz\\ChatSecureClient11212\\ChatSecureClient11212\\ChatSecureClient11212.csproj",
+              "RelativeToolTip": "ChatSecureClient11212\\ChatSecureClient11212.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-12T09:38:12.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StickerPicker.xaml.cs",
+              "DocumentMoniker": "D:\\GITHUBREP\\tzz\\ChatSecureClient11212\\ChatSecureClient11212\\StickerPicker.xaml.cs",
+              "RelativeDocumentMoniker": "ChatSecureClient11212\\StickerPicker.xaml.cs",
+              "ToolTip": "D:\\GITHUBREP\\tzz\\ChatSecureClient11212\\ChatSecureClient11212\\StickerPicker.xaml.cs",
+              "RelativeToolTip": "ChatSecureClient11212\\StickerPicker.xaml.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAowDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T21:38:48.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "StickerPicker.xaml",
-              "DocumentMoniker": "D:\\collage_top\\collage_lessons\\sharp\\ChatSecureClient11212\\ChatSecureClient11212\\StickerPicker.xaml",
+              "DocumentMoniker": "D:\\GITHUBREP\\tzz\\ChatSecureClient11212\\ChatSecureClient11212\\StickerPicker.xaml",
               "RelativeDocumentMoniker": "ChatSecureClient11212\\StickerPicker.xaml",
-              "ToolTip": "D:\\collage_top\\collage_lessons\\sharp\\ChatSecureClient11212\\ChatSecureClient11212\\StickerPicker.xaml",
+              "ToolTip": "D:\\GITHUBREP\\tzz\\ChatSecureClient11212\\ChatSecureClient11212\\StickerPicker.xaml",
               "RelativeToolTip": "ChatSecureClient11212\\StickerPicker.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
@@ -76,11 +110,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "EmojiPopup.xaml.cs",
-              "DocumentMoniker": "D:\\collage_top\\collage_lessons\\sharp\\ChatSecureClient11212\\ChatSecureClient11212\\EmojiPopup.xaml.cs",
+              "DocumentMoniker": "D:\\GITHUBREP\\tzz\\ChatSecureClient11212\\ChatSecureClient11212\\EmojiPopup.xaml.cs",
               "RelativeDocumentMoniker": "ChatSecureClient11212\\EmojiPopup.xaml.cs",
-              "ToolTip": "D:\\collage_top\\collage_lessons\\sharp\\ChatSecureClient11212\\ChatSecureClient11212\\EmojiPopup.xaml.cs",
+              "ToolTip": "D:\\GITHUBREP\\tzz\\ChatSecureClient11212\\ChatSecureClient11212\\EmojiPopup.xaml.cs",
               "RelativeToolTip": "ChatSecureClient11212\\EmojiPopup.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -89,11 +123,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "EmojiPopup.xaml",
-              "DocumentMoniker": "D:\\collage_top\\collage_lessons\\sharp\\ChatSecureClient11212\\ChatSecureClient11212\\EmojiPopup.xaml",
+              "DocumentMoniker": "D:\\GITHUBREP\\tzz\\ChatSecureClient11212\\ChatSecureClient11212\\EmojiPopup.xaml",
               "RelativeDocumentMoniker": "ChatSecureClient11212\\EmojiPopup.xaml",
-              "ToolTip": "D:\\collage_top\\collage_lessons\\sharp\\ChatSecureClient11212\\ChatSecureClient11212\\EmojiPopup.xaml",
+              "ToolTip": "D:\\GITHUBREP\\tzz\\ChatSecureClient11212\\ChatSecureClient11212\\EmojiPopup.xaml",
               "RelativeToolTip": "ChatSecureClient11212\\EmojiPopup.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
@@ -102,11 +136,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "App.xaml.cs",
-              "DocumentMoniker": "D:\\collage_top\\collage_lessons\\sharp\\ChatSecureClient11212\\ChatSecureClient11212\\App.xaml.cs",
+              "DocumentMoniker": "D:\\GITHUBREP\\tzz\\ChatSecureClient11212\\ChatSecureClient11212\\App.xaml.cs",
               "RelativeDocumentMoniker": "ChatSecureClient11212\\App.xaml.cs",
-              "ToolTip": "D:\\collage_top\\collage_lessons\\sharp\\ChatSecureClient11212\\ChatSecureClient11212\\App.xaml.cs",
+              "ToolTip": "D:\\GITHUBREP\\tzz\\ChatSecureClient11212\\ChatSecureClient11212\\App.xaml.cs",
               "RelativeToolTip": "ChatSecureClient11212\\App.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -115,11 +149,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "App.xaml",
-              "DocumentMoniker": "D:\\collage_top\\collage_lessons\\sharp\\ChatSecureClient11212\\ChatSecureClient11212\\App.xaml",
+              "DocumentMoniker": "D:\\GITHUBREP\\tzz\\ChatSecureClient11212\\ChatSecureClient11212\\App.xaml",
               "RelativeDocumentMoniker": "ChatSecureClient11212\\App.xaml",
-              "ToolTip": "D:\\collage_top\\collage_lessons\\sharp\\ChatSecureClient11212\\ChatSecureClient11212\\App.xaml",
+              "ToolTip": "D:\\GITHUBREP\\tzz\\ChatSecureClient11212\\ChatSecureClient11212\\App.xaml",
               "RelativeToolTip": "ChatSecureClient11212\\App.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-06-10T21:18:17.521Z",
@@ -129,9 +163,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "D:\\collage_top\\collage_lessons\\sharp\\ChatSecureClient11212\\ChatSecureClient11212\\MainWindow.xaml",
+              "DocumentMoniker": "D:\\GITHUBREP\\tzz\\ChatSecureClient11212\\ChatSecureClient11212\\MainWindow.xaml",
               "RelativeDocumentMoniker": "ChatSecureClient11212\\MainWindow.xaml",
-              "ToolTip": "D:\\collage_top\\collage_lessons\\sharp\\ChatSecureClient11212\\ChatSecureClient11212\\MainWindow.xaml",
+              "ToolTip": "D:\\GITHUBREP\\tzz\\ChatSecureClient11212\\ChatSecureClient11212\\MainWindow.xaml",
               "RelativeToolTip": "ChatSecureClient11212\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-06-10T21:11:18.791Z",
@@ -141,11 +175,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "D:\\collage_top\\collage_lessons\\sharp\\ChatSecureClient11212\\ChatSecureClient11212\\MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\GITHUBREP\\tzz\\ChatSecureClient11212\\ChatSecureClient11212\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "ChatSecureClient11212\\MainWindow.xaml.cs",
-              "ToolTip": "D:\\collage_top\\collage_lessons\\sharp\\ChatSecureClient11212\\ChatSecureClient11212\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\GITHUBREP\\tzz\\ChatSecureClient11212\\ChatSecureClient11212\\MainWindow.xaml.cs",
               "RelativeToolTip": "ChatSecureClient11212\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADIAAAAAAAAAAAAcwEQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-10T21:11:18.734Z",
               "EditorCaption": ""

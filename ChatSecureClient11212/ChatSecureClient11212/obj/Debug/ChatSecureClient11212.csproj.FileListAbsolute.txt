@@ -12,3 +12,17 @@ D:\collage_top\collage_lessons\sharp\ChatSecureClient11212\ChatSecureClient11212
 D:\collage_top\collage_lessons\sharp\ChatSecureClient11212\ChatSecureClient11212\obj\Debug\ChatSecureClient11212.csproj.CoreCompileInputs.cache
 D:\collage_top\collage_lessons\sharp\ChatSecureClient11212\ChatSecureClient11212\obj\Debug\ChatSecureClient11212.exe
 D:\collage_top\collage_lessons\sharp\ChatSecureClient11212\ChatSecureClient11212\obj\Debug\ChatSecureClient11212.pdb
+D:\GITHUBREP\tzz\ChatSecureClient11212\ChatSecureClient11212\obj\Debug\ChatSecureClient11212.csproj.AssemblyReference.cache
+D:\GITHUBREP\tzz\ChatSecureClient11212\ChatSecureClient11212\obj\Debug\MainWindow.baml
+D:\GITHUBREP\tzz\ChatSecureClient11212\ChatSecureClient11212\obj\Debug\MainWindow.g.cs
+D:\GITHUBREP\tzz\ChatSecureClient11212\ChatSecureClient11212\obj\Debug\App.g.cs
+D:\GITHUBREP\tzz\ChatSecureClient11212\ChatSecureClient11212\obj\Debug\ChatSecureClient11212_MarkupCompile.cache
+D:\GITHUBREP\tzz\ChatSecureClient11212\ChatSecureClient11212\obj\Debug\ChatSecureClient11212.g.resources
+D:\GITHUBREP\tzz\ChatSecureClient11212\ChatSecureClient11212\obj\Debug\ChatSecureClient11212.Properties.Resources.resources
+D:\GITHUBREP\tzz\ChatSecureClient11212\ChatSecureClient11212\obj\Debug\ChatSecureClient11212.csproj.GenerateResource.cache
+D:\GITHUBREP\tzz\ChatSecureClient11212\ChatSecureClient11212\obj\Debug\ChatSecureClient11212.csproj.CoreCompileInputs.cache
+D:\GITHUBREP\tzz\ChatSecureClient11212\ChatSecureClient11212\obj\Debug\ChatSecureClient11212.exe
+D:\GITHUBREP\tzz\ChatSecureClient11212\ChatSecureClient11212\obj\Debug\ChatSecureClient11212.pdb
+D:\GITHUBREP\tzz\ChatSecureClient11212\ChatSecureClient11212\bin\Debug\ChatSecureClient11212.exe.config
+D:\GITHUBREP\tzz\ChatSecureClient11212\ChatSecureClient11212\bin\Debug\ChatSecureClient11212.exe
+D:\GITHUBREP\tzz\ChatSecureClient11212\ChatSecureClient11212\bin\Debug\ChatSecureClient11212.pdb

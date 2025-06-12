@@ -4,11 +4,11 @@
 winexe
 C#
 .cs
-D:\GITHUBREP\tzz\ChatSecureClient11212\ChatSecureClient11212\obj\Debug\
+D:\GITHUBREP\tzz\ChatSecureClient11212\ChatSecureClient11212\obj\Release\
 ChatSecureClient11212
 none
 false
-DEBUG;TRACE
+TRACE
 D:\GITHUBREP\tzz\ChatSecureClient11212\ChatSecureClient11212\App.xaml
 1219584333
 
